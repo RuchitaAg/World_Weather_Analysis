@@ -4,6 +4,7 @@ Config.py
 # Adding additional files
 Weather_Analysis.ipynb
 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
